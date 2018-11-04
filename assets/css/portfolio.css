@@ -38,7 +38,6 @@ h1{
     padding: 10px;
     float: left;
     
-    
 
 
 }
@@ -50,6 +49,8 @@ h2{
     width: 100%;
     margin: 0 auto;
     padding-top: 20px;
+    
+    
     
 
 }
@@ -69,15 +70,42 @@ h2{
     font-family: Arial, Helvetica, sans-serif;
     padding: 10px;
     width: 640px;
+    height: 690px;
     margin: 0 auto;
-    
-    
-    
+   
     
 }
 
+.boxes{
+    width: 200px;
+    height: 200px;
+    float: left;
+    margin-top: 10px;
+    margin-right: 25px;
+    position: relative;
+    /* padding: 10px; */
+  
+    
+    
+
+     
+}
+
+h4{color: #ffffff;
+    background-color: #4aaaa5;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    width: 100px;
+    text-align: center;
+    padding: 10px;
+    position: absolute;
+    }
+
 img{
-    overflow: auto;}
+    width: 200px;
+    height: 200px;
+    overflow: auto;
+    float: left;
+}
 
 p{
     color: #777777;
@@ -92,4 +120,6 @@ footer{
     font-family: Georgia, 'Times New Roman', Times, serif;
     padding: 2px;
     width: 100%;
+    
 }
+
